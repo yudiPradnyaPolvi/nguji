@@ -1,0 +1,40 @@
+h1 {
+color: yellow;
+}
+h2 {
+     color: blue;
+}
+h3{
+     color: green;
+}
+h4 {
+     color: red;
+}
+h5 {
+     color: orange;
+}
+h6 {
+     color: blueviolet;
+}
+#belajarId{
+    color: chocolate;
+}
+.belajarClass{
+     color: burlywood ;
+}
+.header{
+    background-color: pink;
+}
+.paragraph{
+    background-color: paleturquoise;
+}
+a:hover{
+     color: blueviolet;
+}
+a:active {
+     color: red;
+}
+
+input:focus{
+     color: blue;
+}
